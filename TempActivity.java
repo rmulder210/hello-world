@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-/* this class is intended for learning to work with gitHub */
+/* this class is intended for learning to work with gitHub. */
 
 public class TempActivity extends Activity {
 
