@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 /* this class is intended for learning to work with gitHub. */
 
-public class TempActivity extends Activity {
+public class MainActivity extends Activity {
 
     private SensorManager mSensorManager;
 
